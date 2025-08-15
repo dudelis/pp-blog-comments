@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Codemusician Power Platform Blog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform from Codemusician. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Sat, 20 Apr 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/custom-connector/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/convert-csv-to-json</guid>
+    <title>Converting CSV to JSON in Power Platform</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/convert-csv-to-json</link>
+    <description>Unlock the potential of your data with our comprehensive guide on converting CSV files to JSON format using Power Platform. Learn step-by-step processes, tips, and tricks to seamlessly transform your data for enhanced analysis and integration. Dive into the power of Power Platform and elevate your data handling skills today!</description>
+    <pubDate>Sat, 20 Apr 2024 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>power platform</category><category>custom connector</category><category>code</category>
+  </item>
+
+    </channel>
+  </rss>
