@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://tailwind-nextjs-starter-blog.vercel.app/</loc>
+<loc>https://codemusician.dev/</loc>
 <lastmod>2025-08-15</lastmod>
 </url>
 <url>
-<loc>https://tailwind-nextjs-starter-blog.vercel.app/blog</loc>
+<loc>https://codemusician.dev/blog</loc>
 <lastmod>2025-08-15</lastmod>
 </url>
 <url>
-<loc>https://tailwind-nextjs-starter-blog.vercel.app/projects</loc>
+<loc>https://codemusician.dev/projects</loc>
 <lastmod>2025-08-15</lastmod>
 </url>
 <url>
-<loc>https://tailwind-nextjs-starter-blog.vercel.app/tags</loc>
+<loc>https://codemusician.dev/tags</loc>
 <lastmod>2025-08-15</lastmod>
 </url>
 <url>
-<loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/convert-csv-to-json</loc>
+<loc>https://codemusician.dev/blog/convert-csv-to-json</loc>
 <lastmod>2024-04-20T00:00:00.000Z</lastmod>
 </url>
 <url>
-<loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/remove-connections</loc>
+<loc>https://codemusician.dev/blog/remove-connections</loc>
 <lastmod>2024-05-16T00:00:00.000Z</lastmod>
 </url>
 </urlset>

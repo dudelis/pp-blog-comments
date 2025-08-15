@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Codemusician Power Platform Blog</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <link>https://codemusician.dev/blog</link>
       <description>Insights, tutorials, and stories about Microsoft Power Platform from Codemusician. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
       <lastBuildDate>Thu, 16 May 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/powershell/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://codemusician.dev/tags/powershell/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/remove-connections</guid>
+    <guid>https://codemusician.dev/blog/remove-connections</guid>
     <title>How to delete connections from the environment</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/remove-connections</link>
+    <link>https://codemusician.dev/blog/remove-connections</link>
     <description>Cleaning up **shared_logicflows** connections in error state is essential for maintaining a healthy Power Platform environment. By following the steps outlined in this blog post, you’ll keep your connections tidy and improve overall performance.</description>
     <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
     <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
