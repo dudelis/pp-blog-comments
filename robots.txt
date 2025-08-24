@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://codemusician.dev
-Sitemap: https://codemusician.dev/sitemap.xml
+Host: https://hacktheplatform.dev
+Sitemap: https://hacktheplatform.dev/sitemap.xml
