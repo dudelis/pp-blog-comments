@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Thu, 28 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/powerbi/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/dataflow-multiple-choice</guid>
+    <title>Dataverse Choice Columns Part 2 - Multiple Values</title>
+    <link>https://hacktheplatform.dev/blog/dataflow-multiple-choice</link>
+    <description>Learn how to handle multi-select Choice columns from SharePoint and map them into Dataverse using Power Query dataflows. This post walks through creating a custom lookup table, expanding and merging multiple values, and grouping them back into a format that Dataverse can store. Includes step-by-step guidance and Power Query code snippets.</description>
+    <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>power-platform</category><category>dataflow</category><category>dataverse</category><category>power-query</category><category>powerbi</category>
+  </item>
+
+    </channel>
+  </rss>

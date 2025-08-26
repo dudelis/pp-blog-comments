@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hacktheplatform.dev/</loc>
-<lastmod>2025-08-24</lastmod>
+<lastmod>2025-08-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog</loc>
-<lastmod>2025-08-24</lastmod>
+<lastmod>2025-08-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/projects</loc>
-<lastmod>2025-08-24</lastmod>
+<lastmod>2025-08-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/tags</loc>
-<lastmod>2025-08-24</lastmod>
+<lastmod>2025-08-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/convert-csv-to-json</loc>
@@ -22,7 +22,11 @@
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/dataflow-choice-columns</loc>
-<lastmod>2024-05-24T00:00:00.000Z</lastmod>
+<lastmod>2025-08-24T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://hacktheplatform.dev/blog/dataflow-multiple-choice</loc>
+<lastmod>2025-08-28T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/remove-connections</loc>
