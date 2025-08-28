@@ -11,18 +11,28 @@
       <atom:link href="https://hacktheplatform.dev/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
+    <guid>https://hacktheplatform.dev/blog/dataflow-lookup-single</guid>
+    <title>Dataflows Part 3 - LookUp Column with Single Value</title>
+    <link>https://hacktheplatform.dev/blog/dataflow-lookup-single</link>
+    <description>In Part 3 of the Dataflows series, we focus on working with Dataverse Lookup Columns (Single Values) and how to prepare, map, and validate them in Power Platform dataflows.</description>
+    <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>power-platform</category><category>dataflow</category><category>dataverse</category><category>power-query</category><category>powerbi</category><category>lookup-column</category>
+  </item>
+
+  <item>
     <guid>https://hacktheplatform.dev/blog/dataflow-multiple-choice</guid>
-    <title>Dataverse Choice Columns Part 2 - Multiple Values</title>
+    <title>Dataflows Part 2 - Choice Column with Multiple Values</title>
     <link>https://hacktheplatform.dev/blog/dataflow-multiple-choice</link>
     <description>Learn how to handle multi-select Choice columns from SharePoint and map them into Dataverse using Power Query dataflows. This post walks through creating a custom lookup table, expanding and merging multiple values, and grouping them back into a format that Dataverse can store. Includes step-by-step guidance and Power Query code snippets.</description>
-    <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+    <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
     <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
     <category>power-platform</category><category>dataflow</category><category>dataverse</category><category>power-query</category><category>powerbi</category>
   </item>
 
   <item>
     <guid>https://hacktheplatform.dev/blog/dataflow-choice-columns</guid>
-    <title>Dataverse Choice Columns Part 1 - Single Value</title>
+    <title>Dataflows Part 1 - Choice Column with Single Value</title>
     <link>https://hacktheplatform.dev/blog/dataflow-choice-columns</link>
     <description>Learn how to work with single-value Choice columns in Dataverse and configure them with Dataflows.</description>
     <pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate>
@@ -35,7 +45,7 @@
     <title>How to delete connections from the environment</title>
     <link>https://hacktheplatform.dev/blog/remove-connections</link>
     <description>Cleaning up **shared_logicflows** connections in error state is essential for maintaining a healthy Power Platform environment. By following the steps outlined in this blog post, you’ll keep your connections tidy and improve overall performance.</description>
-    <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+    <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
     <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
     <category>power-platform</category><category>administration</category><category>powershell</category>
   </item>

@@ -7,7 +7,7 @@
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
-      <lastBuildDate>Thu, 16 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 16 May 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://hacktheplatform.dev/tags/administration/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
@@ -15,7 +15,7 @@
     <title>How to delete connections from the environment</title>
     <link>https://hacktheplatform.dev/blog/remove-connections</link>
     <description>Cleaning up **shared_logicflows** connections in error state is essential for maintaining a healthy Power Platform environment. By following the steps outlined in this blog post, you’ll keep your connections tidy and improve overall performance.</description>
-    <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+    <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
     <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
     <category>power-platform</category><category>administration</category><category>powershell</category>
   </item>

@@ -11,11 +11,21 @@
       <atom:link href="https://hacktheplatform.dev/tags/powerbi/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
+    <guid>https://hacktheplatform.dev/blog/dataflow-lookup-single</guid>
+    <title>Dataflows Part 3 - LookUp Column with Single Value</title>
+    <link>https://hacktheplatform.dev/blog/dataflow-lookup-single</link>
+    <description>In Part 3 of the Dataflows series, we focus on working with Dataverse Lookup Columns (Single Values) and how to prepare, map, and validate them in Power Platform dataflows.</description>
+    <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>power-platform</category><category>dataflow</category><category>dataverse</category><category>power-query</category><category>powerbi</category><category>lookup-column</category>
+  </item>
+
+  <item>
     <guid>https://hacktheplatform.dev/blog/dataflow-multiple-choice</guid>
-    <title>Dataverse Choice Columns Part 2 - Multiple Values</title>
+    <title>Dataflows Part 2 - Choice Column with Multiple Values</title>
     <link>https://hacktheplatform.dev/blog/dataflow-multiple-choice</link>
     <description>Learn how to handle multi-select Choice columns from SharePoint and map them into Dataverse using Power Query dataflows. This post walks through creating a custom lookup table, expanding and merging multiple values, and grouping them back into a format that Dataverse can store. Includes step-by-step guidance and Power Query code snippets.</description>
-    <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+    <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
     <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
     <category>power-platform</category><category>dataflow</category><category>dataverse</category><category>power-query</category><category>powerbi</category>
   </item>
