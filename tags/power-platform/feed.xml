@@ -31,6 +31,16 @@
   </item>
 
   <item>
+    <guid>https://hacktheplatform.dev/blog/dataflow-lookup-many-to-many</guid>
+    <title>Dataflows Part 4 - LookUp Column with Multiple Values (Many-to-Many Relationships)</title>
+    <link>https://hacktheplatform.dev/blog/dataflow-lookup-many-to-many</link>
+    <description>How to handle many-to-many relationships in Dataverse using Dataflows, with a detailed comparison of manual vs built-in approaches.</description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>power-platform</category><category>dataflow</category><category>dataverse</category><category>power-query</category><category>data-modelling</category><category>lookup-column</category>
+  </item>
+
+  <item>
     <guid>https://hacktheplatform.dev/blog/dataflow-lookup-single</guid>
     <title>Dataflows Part 3 - LookUp Column with Single Value</title>
     <link>https://hacktheplatform.dev/blog/dataflow-lookup-single</link>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Mon, 01 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/data-modelling/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/dataflow-lookup-many-to-many</guid>
+    <title>Dataflows Part 4 - LookUp Column with Multiple Values (Many-to-Many Relationships)</title>
+    <link>https://hacktheplatform.dev/blog/dataflow-lookup-many-to-many</link>
+    <description>How to handle many-to-many relationships in Dataverse using Dataflows, with a detailed comparison of manual vs built-in approaches.</description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>power-platform</category><category>dataflow</category><category>dataverse</category><category>power-query</category><category>data-modelling</category><category>lookup-column</category>
+  </item>
+
+    </channel>
+  </rss>
