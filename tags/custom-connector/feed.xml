@@ -20,5 +20,15 @@
     <category>power platform</category><category>custom connector</category><category>code</category>
   </item>
 
+  <item>
+    <guid>https://hacktheplatform.dev/blog/flow-approval-custom-connector</guid>
+    <title>Custom Connector for Power Automate Approvals</title>
+    <link>https://hacktheplatform.dev/blog/flow-approval-custom-connector</link>
+    <description>Learn how to build a reusable Custom Connector for Power Automate Approvals and integrate it into Power Apps.</description>
+    <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>power-platform</category><category>custom-connector</category><category>power-automate</category><category>approvals</category>
+  </item>
+
     </channel>
   </rss>
