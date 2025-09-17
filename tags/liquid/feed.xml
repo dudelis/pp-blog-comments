@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Wed, 17 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/liquid/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/powerpages-liquid-vs-webapi</guid>
+    <title>Liquid vs Web API in Power Pages: Data Loading Performance</title>
+    <link>https://hacktheplatform.dev/blog/powerpages-liquid-vs-webapi</link>
+    <description>In this post, I compare the performance of Liquid and Web API in Power Pages when rendering large datasets. Based on real-world tests with 200, 2,000, and 10,000 records, I analyze which approach delivers faster page loads, better scalability, and a smoother user experience. You’ll also learn best practices for data filtering, server-side calls, and asynchronous loading to avoid common performance pitfalls.</description>
+    <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>power-platform</category><category>liquid</category><category>power-pages</category><category>webapi</category>
+  </item>
+
+    </channel>
+  </rss>
