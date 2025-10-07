@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
-      <lastBuildDate>Wed, 17 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Oct 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://hacktheplatform.dev/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://hacktheplatform.dev/blog/custom-api-fetchxml-canvas-app</guid>
+    <title>Custom API: Run Complex FetchXML Queries from Canvas App</title>
+    <link>https://hacktheplatform.dev/blog/custom-api-fetchxml-canvas-app</link>
+    <description>Learn how to run complex FetchXML queries directly from a Canvas App using a Dataverse POST Custom API. This tutorial shows you how to bypass Power Automate Flows, build a signed plugin DLL, register a POST Custom API, and parse the results into JSON for dynamic use in your Canvas Apps. Ideal for advanced Power Platform developers who want more efficient, flexible, and secure ways to retrieve aggregated data across multiple tables.</description>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>custom-api</category><category>fetchxml</category><category>power-apps</category><category>code</category>
+  </item>
+
   <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-liquid-vs-webapi</guid>
     <title>Liquid vs Web API in Power Pages: Data Loading Performance</title>
