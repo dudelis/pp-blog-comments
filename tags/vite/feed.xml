@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Mon, 13 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/vite/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</guid>
+    <title>Deploying a Custom React SPA to Microsoft Power Pages (Part 1)</title>
+    <link>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</link>
+    <description>Learn how to build a Vite + React Single Page Application, deploy it to Power Pages using the official Power Platform CLI, and preserve your configuration safely.</description>
+    <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Pages</category><category>Power Platform</category><category>React</category><category>Vite</category><category>CLI</category><category>SPA</category><category>Tutorial</category>
+  </item>
+
+    </channel>
+  </rss>
