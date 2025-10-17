@@ -12,7 +12,7 @@
       
   <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</guid>
-    <title>Deploying a Custom React SPA to Microsoft Power Pages (Part 1)</title>
+    <title>Power Pages &amp; SPA (Part 1): Deploying a Custom React SPA to Microsoft Power Pages</title>
     <link>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</link>
     <description>Learn how to build a Vite + React Single Page Application, deploy it to Power Pages using the official Power Platform CLI, and preserve your configuration safely.</description>
     <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>

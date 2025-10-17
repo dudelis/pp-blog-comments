@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Thu, 16 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/entra-id/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/powerpages-spa-authentication-part-2</guid>
+    <title>Power Pages &amp; SPA (Part 2): Adding Authentication with Microsoft Entra ID</title>
+    <link>https://hacktheplatform.dev/blog/powerpages-spa-authentication-part-2</link>
+    <description>In this second part of the Power Pages &amp; SPA series, we add authentication to our custom React single-page application using Microsoft Entra ID and Power Pages user context.</description>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Pages</category><category>React</category><category>Authentication</category><category>Entra ID</category><category>Power Platform</category><category>Tutorial</category>
+  </item>
+
+    </channel>
+  </rss>
