@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hacktheplatform.dev/</loc>
-<lastmod>2025-10-17</lastmod>
+<lastmod>2025-10-29</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog</loc>
-<lastmod>2025-10-17</lastmod>
+<lastmod>2025-10-29</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/projects</loc>
-<lastmod>2025-10-17</lastmod>
+<lastmod>2025-10-29</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/tags</loc>
-<lastmod>2025-10-17</lastmod>
+<lastmod>2025-10-29</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/convert-csv-to-json</loc>
@@ -55,6 +55,10 @@
 <url>
 <loc>https://hacktheplatform.dev/blog/powerpages-spa-authentication-part-2</loc>
 <lastmod>2025-10-16</lastmod>
+</url>
+<url>
+<loc>https://hacktheplatform.dev/blog/powerpages-spa-fetch-data-part-3</loc>
+<lastmod>2025-10-28</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/remove-connections</loc>

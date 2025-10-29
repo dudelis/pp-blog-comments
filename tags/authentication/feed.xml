@@ -20,5 +20,15 @@
     <category>Power Pages</category><category>React</category><category>Authentication</category><category>Entra ID</category><category>Power Platform</category><category>Tutorial</category>
   </item>
 
+  <item>
+    <guid>https://hacktheplatform.dev/blog/powerpages-spa-fetch-data-part-3</guid>
+    <title>Power Pages &amp; SPA (Part 3): Fetching Dataverse Data Securely</title>
+    <link>https://hacktheplatform.dev/blog/powerpages-spa-fetch-data-part-3</link>
+    <description>In Part 3, we’ll connect our Power Pages + React SPA to Dataverse using the Web API. You’ll learn to enable API access, set permissions for authenticated users, and securely fetch data with CSRF token handling. We’ll also build a simple UI to display Accounts, validating our authentication setup from Part 2.</description>
+    <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Pages</category><category>SPA</category><category>Dataverse</category><category>React</category><category>Power Platform</category><category>Authentication</category>
+  </item>
+
     </channel>
   </rss>
