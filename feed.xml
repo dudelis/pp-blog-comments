@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
-      <lastBuildDate>Tue, 28 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 06 Nov 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://hacktheplatform.dev/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://hacktheplatform.dev/blog/plugin-azure-blob-storage</guid>
+    <title>Auto-Generate Azure Blob Folders from Dataverse Using a Plugin</title>
+    <link>https://hacktheplatform.dev/blog/plugin-azure-blob-storage</link>
+    <description>Learn how to create a Dataverse plugin that automatically creates Azure Blob Storage folders for new records using REST API calls.</description>
+    <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Dataverse</category><category>Azure Blob Storage</category><category>Power Platform</category><category>Plugin</category><category>REST API</category><category>code</category>
+  </item>
+
   <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-spa-fetch-data-part-3</guid>
     <title>Power Pages &amp; SPA (Part 3): Fetching Dataverse Data Securely</title>

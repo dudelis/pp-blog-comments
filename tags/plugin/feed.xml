@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Thu, 06 Nov 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/plugin/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/plugin-azure-blob-storage</guid>
+    <title>Auto-Generate Azure Blob Folders from Dataverse Using a Plugin</title>
+    <link>https://hacktheplatform.dev/blog/plugin-azure-blob-storage</link>
+    <description>Learn how to create a Dataverse plugin that automatically creates Azure Blob Storage folders for new records using REST API calls.</description>
+    <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Dataverse</category><category>Azure Blob Storage</category><category>Power Platform</category><category>Plugin</category><category>REST API</category><category>code</category>
+  </item>
+
+    </channel>
+  </rss>

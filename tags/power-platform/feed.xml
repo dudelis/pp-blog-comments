@@ -71,6 +71,16 @@
   </item>
 
   <item>
+    <guid>https://hacktheplatform.dev/blog/plugin-azure-blob-storage</guid>
+    <title>Auto-Generate Azure Blob Folders from Dataverse Using a Plugin</title>
+    <link>https://hacktheplatform.dev/blog/plugin-azure-blob-storage</link>
+    <description>Learn how to create a Dataverse plugin that automatically creates Azure Blob Storage folders for new records using REST API calls.</description>
+    <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Dataverse</category><category>Azure Blob Storage</category><category>Power Platform</category><category>Plugin</category><category>REST API</category><category>code</category>
+  </item>
+
+  <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</guid>
     <title>Power Pages &amp; SPA (Part 1): Deploying a Custom React SPA to Microsoft Power Pages</title>
     <link>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</link>
