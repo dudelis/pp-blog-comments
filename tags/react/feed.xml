@@ -40,5 +40,15 @@
     <category>Power Pages</category><category>SPA</category><category>Dataverse</category><category>React</category><category>Power Platform</category><category>Authentication</category>
   </item>
 
+  <item>
+    <guid>https://hacktheplatform.dev/blog/powerpages-spa-run-powerautomate-part-4</guid>
+    <title>Power Pages &amp; SPA Part 4: Starting a Power Automate Flow from React SPA</title>
+    <link>https://hacktheplatform.dev/blog/powerpages-spa-run-powerautomate-part-4</link>
+    <description>Learn how to securely start a Power Automate flow from your React SPA in Power Pages, fetching Dataverse data without exposing tables or permissions.</description>
+    <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Pages</category><category>SPA</category><category>Dataverse</category><category>React</category><category>Power Platform</category><category>Authentication</category>
+  </item>
+
     </channel>
   </rss>
