@@ -2,19 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hacktheplatform.dev/</loc>
-<lastmod>2025-11-23</lastmod>
+<lastmod>2025-12-04</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog</loc>
-<lastmod>2025-11-23</lastmod>
+<lastmod>2025-12-04</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/projects</loc>
-<lastmod>2025-11-23</lastmod>
+<lastmod>2025-12-04</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/tags</loc>
-<lastmod>2025-11-23</lastmod>
+<lastmod>2025-12-04</lastmod>
+</url>
+<url>
+<loc>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</loc>
+<lastmod>2025-12-04</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/convert-csv-to-json</loc>

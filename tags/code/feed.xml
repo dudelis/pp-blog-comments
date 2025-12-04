@@ -27,7 +27,7 @@
     <description>Learn how to run complex FetchXML queries directly from a Canvas App using a Dataverse POST Custom API. This tutorial shows you how to bypass Power Automate Flows, build a signed plugin DLL, register a POST Custom API, and parse the results into JSON for dynamic use in your Canvas Apps. Ideal for advanced Power Platform developers who want more efficient, flexible, and secure ways to retrieve aggregated data across multiple tables.</description>
     <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
     <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
-    <category>custom-api</category><category>fetchxml</category><category>power-apps</category><category>code</category>
+    <category>custom-api</category><category>fetchxml</category><category>power-apps</category><category>code</category><category>plugin</category>
   </item>
 
   <item>

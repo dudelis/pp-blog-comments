@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
-      <lastBuildDate>Thu, 20 Nov 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 04 Dec 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://hacktheplatform.dev/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</guid>
+    <title>Block Copilot Studio in Default Environment with a Simple Plugin</title>
+    <link>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</link>
+    <description>Learn how to prevent users from creating Copilot agents in the Default Power Platform environment using a simple Dataverse plugin.</description>
+    <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Platform</category><category>Copilot Studio</category><category>Dataverse</category><category>Governance</category><category>Plugin</category>
+  </item>
+
   <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-spa-using-server-logic-part-5</guid>
     <title>Power Pages &amp; SPA Part 5: Using Server Logic in React SPA</title>
@@ -77,7 +87,7 @@
     <description>Learn how to run complex FetchXML queries directly from a Canvas App using a Dataverse POST Custom API. This tutorial shows you how to bypass Power Automate Flows, build a signed plugin DLL, register a POST Custom API, and parse the results into JSON for dynamic use in your Canvas Apps. Ideal for advanced Power Platform developers who want more efficient, flexible, and secure ways to retrieve aggregated data across multiple tables.</description>
     <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
     <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
-    <category>custom-api</category><category>fetchxml</category><category>power-apps</category><category>code</category>
+    <category>custom-api</category><category>fetchxml</category><category>power-apps</category><category>code</category><category>plugin</category>
   </item>
 
   <item>

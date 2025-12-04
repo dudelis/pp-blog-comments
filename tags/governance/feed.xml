@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Thu, 04 Dec 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/governance/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</guid>
+    <title>Block Copilot Studio in Default Environment with a Simple Plugin</title>
+    <link>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</link>
+    <description>Learn how to prevent users from creating Copilot agents in the Default Power Platform environment using a simple Dataverse plugin.</description>
+    <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Platform</category><category>Copilot Studio</category><category>Dataverse</category><category>Governance</category><category>Plugin</category>
+  </item>
+
+    </channel>
+  </rss>
