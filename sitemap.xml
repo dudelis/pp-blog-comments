@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hacktheplatform.dev/</loc>
-<lastmod>2025-12-04</lastmod>
+<lastmod>2025-12-29</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog</loc>
-<lastmod>2025-12-04</lastmod>
+<lastmod>2025-12-29</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/projects</loc>
-<lastmod>2025-12-04</lastmod>
+<lastmod>2025-12-29</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/tags</loc>
-<lastmod>2025-12-04</lastmod>
+<lastmod>2025-12-29</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</loc>
@@ -51,6 +51,10 @@
 <url>
 <loc>https://hacktheplatform.dev/blog/plugin-azure-blob-storage</loc>
 <lastmod>2025-11-06</lastmod>
+</url>
+<url>
+<loc>https://hacktheplatform.dev/blog/powerautomate-graph-api-change-notifications</loc>
+<lastmod>2025-12-18</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</loc>

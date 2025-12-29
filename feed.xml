@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
-      <lastBuildDate>Thu, 04 Dec 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 18 Dec 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://hacktheplatform.dev/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://hacktheplatform.dev/blog/powerautomate-graph-api-change-notifications</guid>
+    <title>Subscribe to Microsoft Graph API Notifications with Power Automate</title>
+    <link>https://hacktheplatform.dev/blog/powerautomate-graph-api-change-notifications</link>
+    <description>Learn how to subscribe to Microsoft Graph API notifications using Power Automate to detect Microsoft Entra ID user updates in real time, without backend code.</description>
+    <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Automate</category><category>Microsoft Graph</category><category>Entra ID</category><category>Webhooks</category><category>Change Notifications</category><category>Automation</category>
+  </item>
+
   <item>
     <guid>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</guid>
     <title>Block Copilot Studio in Default Environment with a Simple Plugin</title>
