@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hacktheplatform.dev/</loc>
-<lastmod>2025-12-29</lastmod>
+<lastmod>2026-01-22</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog</loc>
-<lastmod>2025-12-29</lastmod>
+<lastmod>2026-01-22</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/projects</loc>
-<lastmod>2025-12-29</lastmod>
+<lastmod>2026-01-22</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/tags</loc>
-<lastmod>2025-12-29</lastmod>
+<lastmod>2026-01-22</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</loc>
@@ -23,6 +23,10 @@
 <url>
 <loc>https://hacktheplatform.dev/blog/convert-csv-to-json</loc>
 <lastmod>2024-04-20</lastmod>
+</url>
+<url>
+<loc>https://hacktheplatform.dev/blog/copilot-expose-a2a</loc>
+<lastmod>2026-01-22</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/custom-api-fetchxml-canvas-app</loc>

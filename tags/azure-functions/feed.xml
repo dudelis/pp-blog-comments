@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/azure-functions/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/copilot-expose-a2a</guid>
+    <title>Expose a Copilot Studio Agent as an A2A Endpoint</title>
+    <link>https://hacktheplatform.dev/blog/copilot-expose-a2a</link>
+    <description>How to expose a Copilot Studio agent using an Azure Function proxy so other agents can call it across environments.</description>
+    <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>copilot-studio</category><category>a2a</category><category>azure-functions</category><category>entra-id</category><category>agents</category>
+  </item>
+
+    </channel>
+  </rss>

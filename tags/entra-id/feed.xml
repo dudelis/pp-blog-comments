@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
-      <lastBuildDate>Thu, 18 Dec 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://hacktheplatform.dev/tags/entra-id/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://hacktheplatform.dev/blog/copilot-expose-a2a</guid>
+    <title>Expose a Copilot Studio Agent as an A2A Endpoint</title>
+    <link>https://hacktheplatform.dev/blog/copilot-expose-a2a</link>
+    <description>How to expose a Copilot Studio agent using an Azure Function proxy so other agents can call it across environments.</description>
+    <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>copilot-studio</category><category>a2a</category><category>azure-functions</category><category>entra-id</category><category>agents</category>
+  </item>
+
   <item>
     <guid>https://hacktheplatform.dev/blog/powerautomate-graph-api-change-notifications</guid>
     <title>Subscribe to Microsoft Graph API Notifications with Power Automate</title>

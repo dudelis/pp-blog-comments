@@ -20,5 +20,15 @@
     <category>Power Platform</category><category>Copilot Studio</category><category>Dataverse</category><category>Governance</category><category>Plugin</category>
   </item>
 
+  <item>
+    <guid>https://hacktheplatform.dev/blog/copilot-expose-a2a</guid>
+    <title>Expose a Copilot Studio Agent as an A2A Endpoint</title>
+    <link>https://hacktheplatform.dev/blog/copilot-expose-a2a</link>
+    <description>How to expose a Copilot Studio agent using an Azure Function proxy so other agents can call it across environments.</description>
+    <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>copilot-studio</category><category>a2a</category><category>azure-functions</category><category>entra-id</category><category>agents</category>
+  </item>
+
     </channel>
   </rss>
