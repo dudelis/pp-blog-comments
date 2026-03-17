@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hacktheplatform.dev/</loc>
-<lastmod>2026-01-23</lastmod>
+<lastmod>2026-03-17</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog</loc>
-<lastmod>2026-01-23</lastmod>
+<lastmod>2026-03-17</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/projects</loc>
-<lastmod>2026-01-23</lastmod>
+<lastmod>2026-03-17</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/tags</loc>
-<lastmod>2026-01-23</lastmod>
+<lastmod>2026-03-17</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</loc>
@@ -47,6 +47,10 @@
 <url>
 <loc>https://hacktheplatform.dev/blog/dataflow-multiple-choice</loc>
 <lastmod>2025-08-26</lastmod>
+</url>
+<url>
+<loc>https://hacktheplatform.dev/blog/delete-agentbuilder-agents-automatically</loc>
+<lastmod>2026-03-15</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/flow-approval-custom-connector</loc>

@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
-      <lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 15 Mar 2026 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://hacktheplatform.dev/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://hacktheplatform.dev/blog/delete-agentbuilder-agents-automatically</guid>
+    <title>How to Delete AgentBuilder Agents Automatically</title>
+    <link>https://hacktheplatform.dev/blog/delete-agentbuilder-agents-automatically</link>
+    <description>Automatically detect and delete Copilot Studio AgentBuilder agents using Power Automate and the Power Platform Inventory API.</description>
+    <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Platform</category><category>Copilot Studio</category><category>Power Automate</category><category>Governance</category><category>Microsoft 365 Copilot</category><category>Administration</category>
+  </item>
+
   <item>
     <guid>https://hacktheplatform.dev/blog/copilot-expose-a2a</guid>
     <title>Expose a Copilot Studio Agent as an A2A Endpoint</title>

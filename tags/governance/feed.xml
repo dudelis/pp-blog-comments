@@ -20,5 +20,15 @@
     <category>Power Platform</category><category>Copilot Studio</category><category>Dataverse</category><category>Governance</category><category>Plugin</category>
   </item>
 
+  <item>
+    <guid>https://hacktheplatform.dev/blog/delete-agentbuilder-agents-automatically</guid>
+    <title>How to Delete AgentBuilder Agents Automatically</title>
+    <link>https://hacktheplatform.dev/blog/delete-agentbuilder-agents-automatically</link>
+    <description>Automatically detect and delete Copilot Studio AgentBuilder agents using Power Automate and the Power Platform Inventory API.</description>
+    <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Platform</category><category>Copilot Studio</category><category>Power Automate</category><category>Governance</category><category>Microsoft 365 Copilot</category><category>Administration</category>
+  </item>
+
     </channel>
   </rss>
