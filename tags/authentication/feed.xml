@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
-      <lastBuildDate>Thu, 16 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 26 Mar 2026 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://hacktheplatform.dev/tags/authentication/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://hacktheplatform.dev/blog/custom-connector-auth-header</guid>
+    <title>How to Set a Custom Authorization Header in a Custom Connector</title>
+    <link>https://hacktheplatform.dev/blog/custom-connector-auth-header</link>
+    <description>Learn how to dynamically set the Authorization header in a Power Platform custom connector using custom code when standard policies and OAuth flows are not sufficient.</description>
+    <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Platform</category><category>Custom Connector</category><category>Power Automate</category><category>API</category><category>Authentication</category>
+  </item>
+
   <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-spa-authentication-part-2</guid>
     <title>Power Pages &amp; SPA (Part 2): Adding Authentication with Microsoft Entra ID</title>

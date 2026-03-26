@@ -21,6 +21,16 @@
   </item>
 
   <item>
+    <guid>https://hacktheplatform.dev/blog/custom-connector-auth-header</guid>
+    <title>How to Set a Custom Authorization Header in a Custom Connector</title>
+    <link>https://hacktheplatform.dev/blog/custom-connector-auth-header</link>
+    <description>Learn how to dynamically set the Authorization header in a Power Platform custom connector using custom code when standard policies and OAuth flows are not sufficient.</description>
+    <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Platform</category><category>Custom Connector</category><category>Power Automate</category><category>API</category><category>Authentication</category>
+  </item>
+
+  <item>
     <guid>https://hacktheplatform.dev/blog/flow-approval-custom-connector</guid>
     <title>Custom Connector for Power Automate Approvals</title>
     <link>https://hacktheplatform.dev/blog/flow-approval-custom-connector</link>

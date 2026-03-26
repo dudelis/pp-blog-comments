@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://hacktheplatform.dev/</loc>
-<lastmod>2026-03-22</lastmod>
+<lastmod>2026-03-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog</loc>
-<lastmod>2026-03-22</lastmod>
+<lastmod>2026-03-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/projects</loc>
-<lastmod>2026-03-22</lastmod>
+<lastmod>2026-03-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/tags</loc>
-<lastmod>2026-03-22</lastmod>
+<lastmod>2026-03-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/block-copilot-in-default-environment</loc>
@@ -31,6 +31,10 @@
 <url>
 <loc>https://hacktheplatform.dev/blog/custom-api-fetchxml-canvas-app</loc>
 <lastmod>2025-10-06</lastmod>
+</url>
+<url>
+<loc>https://hacktheplatform.dev/blog/custom-connector-auth-header</loc>
+<lastmod>2026-03-26</lastmod>
 </url>
 <url>
 <loc>https://hacktheplatform.dev/blog/dataflow-choice-columns</loc>
