@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hack the Platform Blog</title>
+      <link>https://hacktheplatform.dev/blog</link>
+      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <language>en-us</language>
+      <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
+      <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
+      <lastBuildDate>Thu, 13 Aug 2026 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://hacktheplatform.dev/tags/licensing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://hacktheplatform.dev/blog/block-copilot-harness-agents</guid>
+    <title>Block GitHub Copilot Harness Agents with a Dataverse Plugin</title>
+    <link>https://hacktheplatform.dev/blog/block-copilot-harness-agents</link>
+    <description>Agents built on the GitHub Copilot harness consume Copilot Credits that a Microsoft 365 Copilot license does not cover, and there is no admin switch to turn them off. This post shows a Dataverse plugin that blocks their creation.</description>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    <author>fukszon.kostya@gmail.com (Konstantin Fukszon)</author>
+    <category>Power Platform</category><category>Copilot Studio</category><category>Dataverse</category><category>Governance</category><category>Plugin</category><category>Licensing</category><category>Administration</category>
+  </item>
+
+    </channel>
+  </rss>
