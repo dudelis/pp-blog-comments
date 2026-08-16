@@ -3,7 +3,7 @@
     <channel>
       <title>Hack the Platform Blog</title>
       <link>https://hacktheplatform.dev/blog</link>
-      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <description>Deep technical write-ups on Power Platform, Copilot Studio and Azure AI Foundry — governance, plugins, integrations, and the internals underneath them.</description>
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
@@ -52,7 +52,7 @@
 
   <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-spa-run-powerautomate-part-4</guid>
-    <title>Power Pages &amp; SPA (Part 4): Starting a Power Automate Flow from React SPA</title>
+    <title>Starting a Power Automate Flow from React SPA</title>
     <link>https://hacktheplatform.dev/blog/powerpages-spa-run-powerautomate-part-4</link>
     <description>Learn how to securely start a Power Automate flow from your React SPA in Power Pages, fetching Dataverse data without exposing tables or permissions.</description>
     <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>

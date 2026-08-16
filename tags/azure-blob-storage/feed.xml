@@ -3,7 +3,7 @@
     <channel>
       <title>Hack the Platform Blog</title>
       <link>https://hacktheplatform.dev/blog</link>
-      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <description>Deep technical write-ups on Power Platform, Copilot Studio and Azure AI Foundry — governance, plugins, integrations, and the internals underneath them.</description>
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>

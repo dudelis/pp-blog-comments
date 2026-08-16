@@ -3,7 +3,7 @@
     <channel>
       <title>Hack the Platform Blog</title>
       <link>https://hacktheplatform.dev/blog</link>
-      <description>Insights, tutorials, and stories about Microsoft Power Platform and beyond. Empower your business with Power Apps, Power Automate, Copilot Agents, and more.</description>
+      <description>Deep technical write-ups on Power Platform, Copilot Studio and Azure AI Foundry — governance, plugins, integrations, and the internals underneath them.</description>
       <language>en-us</language>
       <managingEditor>fukszon.kostya@gmail.com (Konstantin Fukszon)</managingEditor>
       <webMaster>fukszon.kostya@gmail.com (Konstantin Fukszon)</webMaster>
@@ -12,7 +12,7 @@
       
   <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</guid>
-    <title>Power Pages &amp; SPA (Part 1): Deploying a Custom React SPA to Microsoft Power Pages</title>
+    <title>Deploying a Custom React SPA to Microsoft Power Pages</title>
     <link>https://hacktheplatform.dev/blog/powerpages-deploy-react-spa-part-1</link>
     <description>Learn how to build a Vite + React Single Page Application, deploy it to Power Pages using the official Power Platform CLI, and preserve your configuration safely.</description>
     <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
@@ -22,7 +22,7 @@
 
   <item>
     <guid>https://hacktheplatform.dev/blog/powerpages-spa-authentication-part-2</guid>
-    <title>Power Pages &amp; SPA (Part 2): Adding Authentication with Microsoft Entra ID</title>
+    <title>Adding Authentication with Microsoft Entra ID</title>
     <link>https://hacktheplatform.dev/blog/powerpages-spa-authentication-part-2</link>
     <description>In this second part of the Power Pages &amp; SPA series, we add authentication to our custom React single-page application using Microsoft Entra ID and Power Pages user context.</description>
     <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
